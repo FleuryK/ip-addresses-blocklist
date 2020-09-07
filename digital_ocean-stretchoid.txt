@@ -28,6 +28,7 @@
 162.243.142.136		# zg-0428c-515.stretchoid.com
 162.243.144.149		# zg-0428c-655.stretchoid.com
 162.243.144.226		# zg-0428c-694.stretchoid.com
+192.241.207.79		# zg-0823a-26.stretchoid.com
 192.241.220.23		# zg-0823a-57.stretchoid.com
 192.241.220.29		# zg-0823a-58.stretchoid.com
 192.241.220.33		# zg-0823a-59.stretchoid.com
