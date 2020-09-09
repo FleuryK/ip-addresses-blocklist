@@ -2,6 +2,7 @@
 # Digital Ocean zg-xxxx-xxx.stretchoid.com
 # All IP addresses under listed is located in US
 #
+162.243.129.228		# zg-0823b-332.stretchoid.com
 162.243.130.32		# zg-0823b-331.stretchoid.com
 162.243.130.35		# zg-0823b-333.stretchoid.com
 162.243.130.40		# zg-0823b-334.stretchoid.com
