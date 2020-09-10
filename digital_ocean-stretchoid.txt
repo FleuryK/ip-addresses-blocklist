@@ -118,6 +118,7 @@
 192.241.223.187		# zg-0823a-167.stretchoid.com
 192.241.223.188		# zg-0823a-168.stretchoid.com
 192.241.223.231		# zg-0823a-176.stretchoid.com
+192.241.224.75		# zg-0823a-202.stretchoid.com
 192.241.224.126		# zg-0823a-213.stretchoid.com
 192.241.224.160		# zg-0823a-221.stretchoid.com
 192.241.224.235		# zg-0823a-234.stretchoid.com
@@ -312,6 +313,7 @@
 192.241.233.212		# zg-0823b-172.stretchoid.com
 192.241.233.230		# zg-0823b-174.stretchoid.com
 192.241.233.238		# zg-0823b-175.stretchoid.com
+192.241.234.204		# zg-0823b-194.stretchoid.com
 192.241.235.73		# zg-0823b-206.stretchoid.com
 192.241.235.141		# zg-0823b-217.stretchoid.com
 192.241.236.76		# zg-0823b-235.stretchoid.com
