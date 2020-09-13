@@ -124,6 +124,9 @@
 192.241.224.235		# zg-0823a-234.stretchoid.com
 192.241.224.239		# zg-0823a-235.stretchoid.com
 192.241.225.56		# zg-0823a-254.stretchoid.com
+192.241.225.130		# zg-0823a-273.stretchoid.com
+192.241.226.176		# zg-0823a-312.stretchoid.com
+192.241.227.82		# zg-0823a-352.stretchoid.com
 192.241.227.94		# zg-0823a-361.stretchoid.com
 192.241.227.125		# zg-0823a-373.stretchoid.com
 192.241.227.168		# zg-0823a-390.stretchoid.com
@@ -146,9 +149,9 @@
 192.241.227.243		# zg-0823b-7.stretchoid.com
 192.241.227.245		# zg-0823b-8.stretchoid.com
 192.241.227.246		# zg-0823b-10.stretchoid.com
-192.241.228.6     # zg-0823b-11.stretchoid.com
-192.241.228.8     # zg-0823b-9.stretchoid.com
-192.241.228.9     # zg-0823b-12.stretchoid.com
+192.241.228.6		# zg-0823b-11.stretchoid.com
+192.241.228.8		# zg-0823b-9.stretchoid.com
+192.241.228.9		# zg-0823b-12.stretchoid.com
 192.241.228.10		# zg-0823b-13.stretchoid.com
 192.241.228.12		# zg-0823b-14.stretchoid.com
 192.241.228.14		# zg-0823b-15.stretchoid.com
@@ -226,8 +229,8 @@
 192.241.229.239		# zg-0823b-87.stretchoid.com
 192.241.229.240		# dv-test-2.stretchoid.com
 192.241.229.250		# zg-0823b-88.stretchoid.com
-192.241.230.4     # zg-0823b-89.stretchoid.com
-192.241.230.9     # zg-0823b-90.stretchoid.com
+192.241.230.4		# zg-0823b-89.stretchoid.com
+192.241.230.9		# zg-0823b-90.stretchoid.com
 192.241.230.12		# zg-0823b-91.stretchoid.com
 192.241.230.38		# zg-0823b-92.stretchoid.com
 192.241.230.41		# zg-0823b-93.stretchoid.com
@@ -313,6 +316,7 @@
 192.241.233.212		# zg-0823b-172.stretchoid.com
 192.241.233.230		# zg-0823b-174.stretchoid.com
 192.241.233.238		# zg-0823b-175.stretchoid.com
+192.241.234.139		# zg-0823b-185.stretchoid.com
 192.241.234.204		# zg-0823b-194.stretchoid.com
 192.241.235.73		# zg-0823b-206.stretchoid.com
 192.241.235.141		# zg-0823b-217.stretchoid.com
