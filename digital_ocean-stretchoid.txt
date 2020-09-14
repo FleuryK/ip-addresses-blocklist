@@ -319,6 +319,7 @@
 192.241.234.139		# zg-0823b-185.stretchoid.com
 192.241.234.204		# zg-0823b-194.stretchoid.com
 192.241.235.73		# zg-0823b-206.stretchoid.com
+192.241.235.89		# zg-0823b-210.stretchoid.com
 192.241.235.141		# zg-0823b-217.stretchoid.com
 192.241.236.76		# zg-0823b-235.stretchoid.com
 192.241.236.183		# zg-0823b-238.stretchoid.com
