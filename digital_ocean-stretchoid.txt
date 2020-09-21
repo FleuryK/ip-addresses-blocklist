@@ -1,8 +1,10 @@
 #
 # Digital Ocean zg-xxxx-xxx.stretchoid.com
 # All IP addresses under listed is located in US
-# Update file: 2020-09-19
+# Update file: 2020-09-21
 #
+192.241.213.134		# zg-0915a-43.stretchoid.com
+192.241.214.87		# zg-0915a-54.stretchoid.com
 192.241.218.44		# zg-0915a-115.stretchoid.com
 192.241.219.35		# zg-0915a-131.stretchoid.com
 192.241.227.129		# zg-0915a-191.stretchoid.com
@@ -35,9 +37,11 @@
 192.241.233.83		# zg-0915a-248.stretchoid.com
 192.241.233.87		# zg-0915a-249.stretchoid.com
 192.241.233.89		# zg-0915a-250.stretchoid.com
+192.241.233.252		# zg-0915a-274.stretchoid.com
 192.241.234.8		# zg-0915a-278.stretchoid.com
 192.241.234.31		# zg-0915a-282.stretchoid.com
 192.241.234.235		# zg-0915a-328.stretchoid.com
+192.241.235.98		# zg-0915b-10.stretchoid.com
 192.241.237.178		# Unknown
 192.241.238.10		# zg-0915b-172.stretchoid.com
 192.241.238.97		# zg-0915b-199.stretchoid.com
