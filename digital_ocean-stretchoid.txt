@@ -42,7 +42,7 @@
 192.241.234.31		# zg-0915a-282.stretchoid.com
 192.241.234.235		# zg-0915a-328.stretchoid.com
 192.241.235.98		# zg-0915b-10.stretchoid.com
-192.241.237.178		# Unknown
+192.241.237.178		# zg-0915b-143.stretchoid.com
 192.241.238.10		# zg-0915b-172.stretchoid.com
 192.241.238.97		# zg-0915b-199.stretchoid.com
 192.241.239.48		# zg-0915b-246.stretchoid.com
