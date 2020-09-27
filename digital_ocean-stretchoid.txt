@@ -1,14 +1,70 @@
 #
 # Digital Ocean zg-xxxx-xxx.stretchoid.com
 # All IP addresses under listed is located in US
-# Update file: 2020-09-26
+# Update file: 2020-09-27
 #
 162.243.128.34		# zg-0915b-316.stretchoid.com
 162.243.128.76		# zg-0915b-333.stretchoid.com
+162.243.128.97		# zg-0915b-340.stretchoid.com
+162.243.128.102		# zg-0915b-341.stretchoid.com
+162.243.128.103		# zg-0915b-342.stretchoid.com
+162.243.128.104		# zg-0915b-343.stretchoid.com
+162.243.128.109		# zg-0915b-344.stretchoid.com
 162.243.128.112		# zg-0915b-345.stretchoid.com
+162.243.128.114		# zg-0915b-346.stretchoid.com
+162.243.128.116		# zg-0915b-347.stretchoid.com
+162.243.128.118		# zg-0915b-348.stretchoid.com
+162.243.128.119		# zg-0915b-349.stretchoid.com
+162.243.128.120		# zg-0915b-350.stretchoid.com
+162.243.128.127		# zg-0915b-351.stretchoid.com
+162.243.128.129		# zg-0915b-352.stretchoid.com
+162.243.128.131		# zg-0915b-353.stretchoid.com
+162.243.128.132		# zg-0915b-354.stretchoid.com
+162.243.128.133		# zg-0915b-355.stretchoid.com
+162.243.128.141		# zg-0915b-356.stretchoid.com
+162.243.128.147		# zg-0915b-357.stretchoid.com
+162.243.128.149		# zg-0915b-358.stretchoid.com
+162.243.128.158		# zg-0915b-359.stretchoid.com
+162.243.128.160		# zg-0915b-360.stretchoid.com
+162.243.128.161		# zg-0915b-361.stretchoid.com
+162.243.128.166		# zg-0915b-362.stretchoid.com
+162.243.128.167		# zg-0915b-363.stretchoid.com
+162.243.128.170		# zg-0915b-364.stretchoid.com
+162.243.128.171		# zg-0915b-365.stretchoid.com
+162.243.128.174		# zg-0915b-366.stretchoid.com
+162.243.128.176		# zg-0915b-367.stretchoid.com
+162.243.128.177		# zg-0915b-368.stretchoid.com
+162.243.128.180		# zg-0915b-369.stretchoid.com
+162.243.128.181		# zg-0915b-370.stretchoid.com
+162.243.128.183		# zg-0915b-371.stretchoid.com
+162.243.128.185		# zg-0915b-372.stretchoid.com
+162.243.128.186		# zg-0915b-373.stretchoid.com
+162.243.128.187		# zg-0915b-374.stretchoid.com
+162.243.128.188		# zg-0915b-375.stretchoid.com
+162.243.128.189		# zg-0915b-376.stretchoid.com
+162.243.128.190		# zg-0915b-377.stretchoid.com
+162.243.128.193		# zg-0915b-378.stretchoid.com
+162.243.128.195		# zg-0915b-379.stretchoid.com
+162.243.128.197		# zg-0915b-380.stretchoid.com
+162.243.128.199		# zg-0915b-381.stretchoid.com
+162.243.128.202		# zg-0915b-382.stretchoid.com
 162.243.128.204		# zg-0915b-383.stretchoid.com
+162.243.128.208		# zg-0915b-384.stretchoid.com
+162.243.128.209		# zg-0915b-385.stretchoid.com
+162.243.128.214		# zg-0915b-386.stretchoid.com
+162.243.128.215		# zg-0915b-387.stretchoid.com
+162.243.128.220		# zg-0915b-388.stretchoid.com
+162.243.128.224		# zg-0915b-389.stretchoid.com
+162.243.128.225		# zg-0915b-390.stretchoid.com
+162.243.128.226		# zg-0915b-391.stretchoid.com
 162.243.128.227		# zg-0915b-392.stretchoid.com
 162.243.128.228		# zg-0915b-393.stretchoid.com
+162.243.128.230		# zg-0915b-394.stretchoid.com
+162.243.128.237		# zg-0915b-395.stretchoid.com
+162.243.128.238		# zg-0915b-396.stretchoid.com
+162.243.128.245		# zg-0915b-397.stretchoid.com
+162.243.128.251		# zg-0915b-398.stretchoid.com
+162.243.129.4		# zg-0915b-399.stretchoid.com
 192.241.194.61		# zg-0915a-3.stretchoid.com
 192.241.204.61		# zg-0915a-4.stretchoid.com
 192.241.205.222		# zg-0915a-87.stretchoid.com
