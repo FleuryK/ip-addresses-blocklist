@@ -1,8 +1,9 @@
 #
 # Digital Ocean zg-xxxx-xxx.stretchoid.com
 # All IP addresses under listed is located in US
-# Update file: 2020-09-27
+# Update file: 2020-09-30
 #
+162.243.128.4		# zg-0915b-302.stretchoid.com
 162.243.128.34		# zg-0915b-316.stretchoid.com
 162.243.128.76		# zg-0915b-333.stretchoid.com
 162.243.128.97		# zg-0915b-340.stretchoid.com
@@ -147,6 +148,7 @@
 192.241.220.218		# zg-0915a-152.stretchoid.com
 192.241.220.224		# zg-0915a-153.stretchoid.com
 192.241.220.233		# zg-0915a-154.stretchoid.com
+192.241.220.234		# zg-0915a-155.stretchoid.com
 192.241.220.251		# zg-0915a-157.stretchoid.com
 192.241.221.22		# zg-0915a-158.stretchoid.com
 192.241.221.28		# zg-0915a-159.stretchoid.com
@@ -173,6 +175,7 @@
 192.241.229.240		# dv-test-2.stretchoid.com
 192.241.210.93		# zg-0915a-21.stretchoid.com
 192.241.230.159		# zg-0915a-199.stretchoid.com
+192.241.231.103		# zg-0915a-204.stretchoid.com
 192.241.231.241		# zg-0915a-214.stretchoid.com
 192.241.232.7		# zg-0915a-216.stretchoid.com
 192.241.232.146		# zg-0915a-223.stretchoid.com
@@ -206,6 +209,7 @@
 192.241.234.7		# zg-0915a-277.stretchoid.com
 192.241.234.8		# zg-0915a-278.stretchoid.com
 192.241.234.31		# zg-0915a-282.stretchoid.com
+192.241.234.77		# zg-0915a-293.stretchoid.com
 192.241.234.114		# zg-0915a-304.stretchoid.com
 192.241.234.145		# zg-0915a-313.stretchoid.com
 192.241.234.166		# zg-0915a-316.stretchoid.com
@@ -224,14 +228,18 @@
 192.241.236.232		# zg-0915b-80.stretchoid.com
 192.241.237.30		# zg-0915b-89.stretchoid.com
 192.241.237.31		# zg-0915b-90.stretchoid.com
+192.241.237.172		# zg-0915b-140.stretchoid.com
 192.241.237.178		# zg-0915b-143.stretchoid.com
 192.241.237.202		# zg-0915b-153.stretchoid.com
 192.241.237.214		# zg-0915b-157.stretchoid.com
 192.241.238.10		# zg-0915b-172.stretchoid.com
 192.241.238.17		# zg-0915b-177.stretchoid.com
+192.241.238.60		# zg-0915b-190.stretchoid.com
+192.241.238.90		# zg-0915b-196.stretchoid.com
 192.241.238.97		# zg-0915b-199.stretchoid.com
 192.241.238.102		# zg-0915b-203.stretchoid.com
 192.241.238.210		# zg-0915b-216.stretchoid.com
+192.241.239.15		# zg-0915b-235.stretchoid.com
 192.241.239.48		# zg-0915b-246.stretchoid.com
 198.199.95.17		# zg-0915a-1.stretchoid.com
 198.199.95.69		# zg-0915a-2.stretchoid.com
